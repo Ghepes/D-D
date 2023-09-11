@@ -1,2 +1,3 @@
-# D-D
-preferred js and css to global CDN
+# D-D css
+
+preferred css to global CDN
